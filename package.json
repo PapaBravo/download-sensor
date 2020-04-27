@@ -12,11 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3",
     "read-last-lines": "^1.7.2"
   },
   "devDependencies": {
-    "@types/axios": "^0.14.0",
-    "@types/cheerio": "^0.22.17"
+    "@types/axios": "^0.14.0"
   }
 }
